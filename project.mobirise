@@ -74,9 +74,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
-        "header_custom": "",
+        "title": "Ioli Studios and Apartments",
+        "meta_descr": "Holidays in Paros Naoussa in Ioli Studios",
+        "header_custom": "<meta name=\"google-site-verification\" content=\"8eXI6C7D8XKnqdjoK7rSN5d_SYhGs5pFVEV48wfJkZ8\" />",
         "footer_custom": "",
         "html_before": ""
       },
